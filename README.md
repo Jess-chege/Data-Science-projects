@@ -72,8 +72,6 @@ Research and experimental projects exploring how AI can address practical challe
 | AI-Based Speech and Learning Assistant | Research into a multilingual pronunciation and learning assistant for Kenyan primary school learners, aligned with the CBC curriculum. | Python, Librosa, MFCC, Scikit-learn |
 | Kenya Coffee Market Trends | Planned analysis of coffee-market data using international datasets. | Python, Pandas, Data Visualization |
 
-*Research and experimental projects are presented according to their current development stage. Not every project is a deployed application.*
-
 ---
 
 ## How I Approach Projects
@@ -121,7 +119,6 @@ Data-Science-projects/
 └── README.md
 ```
 
-Each project folder should contain its notebook or source code, a project-specific README, relevant screenshots, and references to its dataset where applicable.
 
 ---
 
